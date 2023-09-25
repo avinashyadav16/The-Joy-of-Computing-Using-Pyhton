@@ -6,7 +6,7 @@ This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **
 
 > ### 📓COURSE PREVIEW LINK:
 >
-> &emsp;&emsp;<b>🔗 [The Joy of Computing using Python](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)</b> 
+> &emsp;&emsp;<b>🔗 <a href="https://onlinecourses.nptel.ac.in/noc21_cs75/preview" target="_blank">The Joy of Computing using Python</a></b>
 >
 > ### 📓COURSE TYPE:
 >
