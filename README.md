@@ -1,5 +1,5 @@
-# The Joy Of Computing Using Python-NPTEL-Course 🖥️🖥️
-Elective MOOC 12 Weeks long NPTEL Course's codes and solutions.
+# The Joy of Computing using Python
+12-week-long NPTEL Elective MOOC Course's codes, assignments, and solutions.
 
 <br>
 
