@@ -3,29 +3,30 @@
 This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **Codes, Assignments and Solution** in the form of Jupyter Notebook.
 <br><br><br>
 
-
 > ### 📓COURSE PREVIEW LINK:
 >
 > &emsp;&emsp;<b>🔗 <a href="https://onlinecourses.nptel.ac.in/noc21_cs75/preview" target="_blank">The Joy of Computing using Python</a></b>
 >
 > ### 📓COURSE TYPE:
 >
-> &emsp;&emsp;<b>✔️ Elective</b> 
+> &emsp;&emsp;<b>✔️ Elective</b>
 >
 > ### 📓COURSE LEVEL:
 >
-> &emsp;&emsp;<b>🧑‍🎓 Undergraduate/Postgraduate</b> 
+> &emsp;&emsp;<b>🧑‍🎓 Undergraduate/Postgraduate</b>
 >
 > ### 📓COURSE DURATION:
 >
-> &emsp;&emsp;<b>🗓️ 12 Weeks</b> 
+> &emsp;&emsp;<b>🗓️ 12 Weeks</b>
 >
 > ### 📓COURSE PREREQUISITES:
 >
-> &emsp;&emsp;<b>🎒 10th standard/high school</b> 
+> &emsp;&emsp;<b>🎒 10th standard/high school</b>
 >
 > ### 📓COURSE LAYOUT:
-><b>
+>
+> <b>
+
 - Motivation for Computing
 - Welcome to Programming!!
 - Variables and Expressions : Design your own calculator
@@ -53,6 +54,15 @@ This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **
 - Tic tac toe : Let’s play
 - Snakes and Ladders : Down the memory lane.
 - Recursion : Tower of Hanoi
-- Page Rank : How Google Works !!  </b><br>
+- Page Rank : How Google Works !! </b><br>
+
+<br>
 
 ---
+
+<br>
+<b><i>NOTE:</i></b> Please open the file named as <mark> <b><i>Week_XX.ipynb </i></b></mark> for the course content of each week folder.
+
+<br>
+
+-----
