@@ -1,7 +1,12 @@
 # The Joy of Computing using Python
 
 This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **Codes, Assignments and Solution** in the form of Jupyter Notebook.
-<br><br><br>
+<br>
+<b><i>NOTE:</i></b> Please open the file named as <mark> <b><i>Week_XX.ipynb </i></b></mark> for the course content of each week folder.
+<br>
+
+-----
+<br>
 
 > ### 📓COURSE PREVIEW LINK:
 >
@@ -60,9 +65,3 @@ This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **
 
 ---
 
-<br>
-<b><i>NOTE:</i></b> Please open the file named as <mark> <b><i>Week_XX.ipynb </i></b></mark> for the course content of each week folder.
-
-<br>
-
------
