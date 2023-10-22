@@ -28,6 +28,10 @@ This folder📒 contains all 12-week-long🗓️ NPTEL Elective MOOC Course's **
 >
 > &emsp;&emsp;<b>🎒 10th standard/high school</b>
 >
+> ### 📓COURSE YEAR:
+>
+> &emsp;&emsp;<b>🗓️ Jul-Dec 2023</b>
+>
 > ### 📓COURSE LAYOUT:
 >
 > <b>
